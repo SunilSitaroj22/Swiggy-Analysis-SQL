@@ -1,6 +1,6 @@
 # Swiggy Data Analysis-SQL
 
-##Introduction
+## Introduction
 Swiggy is an Indian online food ordering and delivery platform. Founded in 2014, Swiggy is headquartered in Bangalore and operates in more than 500 Indian cities as of September 2021.
 
 This case study contains orders data in the month of may,jun, july. There are 7 tables present in this dataset,They are
