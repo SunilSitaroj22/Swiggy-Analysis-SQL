@@ -82,7 +82,7 @@ insight :
 -- For China Town : Ankit is the most loyal customer
 
 ### Tools Used
-##### MYSQL : SQL Queries were used to analyze and extract meaningfull insights from the dataset
+MYSQL : SQL Queries were used to analyze and extract meaningfull insights from the dataset
 
 
 
