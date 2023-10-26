@@ -42,3 +42,49 @@ insight: Customer ankit has made four orders in this data range.
 insight: kfc has highest loyal / repeated customers
 
 
+
+#### 7. Month over month revenue growth of swiggy
+insight: in june recieved 32%, july 50% revenue growth
+
+
+#### 8. Write a query to find Month over month revenue growth of "KFC" restaurant
+   
+insight: revenue rate increased 53% in june and 95% in july
+ 
+#### 9. Write a query to find Month over month revenue growth of "Dominos" restaurant 
+
+insight: revenue rate decreased -5% in june and increased 15% in july
+
+#### 10. Write a query to find most ordered or liked food  
+
+insight: 'Choco Lava cake' is most ordered food
+
+
+#### 11. Write a query to find favorite food of each Customer 
+
+insight: favourite food of Neha	Choco Lava ca
+         favourite food of Khushboo	Choco Lava cake
+         favourite food of Nitish	Choco Lava cake
+         favourite food of Vartika Chicken Wings
+         favourite food of Ankit Schezwan Noodles
+
+                      
+                                           
+#### 12. Write a query to find most loyal customer for each restaurents 
+
+insight :
+-- For KFC : Varthika and Neha are most loyal customer
+
+-- For Dominos : Neha is the most loyal customer
+
+-- For Dosa Plaza : Ankit is the most loyal customer
+
+-- For China Town : Ankit is the most loyal customer
+
+### Tools Used
+. MYSQL: SQL Queries were used to analyze and extract meaningfull insights from the dataset
+
+
+
+
+
