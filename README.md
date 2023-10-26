@@ -43,19 +43,19 @@ insight: kfc has highest loyal / repeated customers
 
 
 
-#### 7. Month over month revenue growth of swiggy
+#### 7. Find Month over month revenue growth of swiggy
 insight: in june recieved 32%, july 50% revenue growth
 
 
-#### 8. Write a query to find Month over month revenue growth of "KFC" restaurant
+#### 8. Find Month over month revenue growth of "KFC" restaurant
    
 insight: revenue rate increased 53% in june and 95% in july
  
-#### 9. Write a query to find Month over month revenue growth of "Dominos" restaurant 
+#### 9. Find Month over month revenue growth of "Dominos" restaurant 
 
 insight: revenue rate decreased -5% in june and increased 15% in july
 
-#### 10. Write a query to find most ordered or liked food  
+#### 10. Find the most ordered or liked food from this data
 
 insight: 'Choco Lava cake' is most ordered food
 
